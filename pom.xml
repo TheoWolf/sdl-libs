@@ -5,7 +5,7 @@
 
     <groupId>datavyu</groupId>
     <artifactId>sdl-libs</artifactId>
-    <version>0.1</version>
+    <version>0.2</version>
     <name>Datavyu</name>
     <url>http://datavyu.org</url>
 
@@ -36,6 +36,7 @@
                 <directory>lib</directory>
                 <includes>
                     <include>SDL2.dll</include>
+                    <include>SDL2.framework</include>
                 </includes>
             </resource>
         </resources>
