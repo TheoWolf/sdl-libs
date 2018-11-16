@@ -6,14 +6,33 @@
     <groupId>datavyu</groupId>
     <artifactId>sdl-libs</artifactId>
     <version>0.2</version>
-    <name>Datavyu</name>
-    <url>http://datavyu.org</url>
+    <name>SDL-libs 2.0.8</name>
+    <description>SDL 2.0.8 Libraries for Windows</description>
+    <url>https://github.com/databrary/sdl-libs</url>
 
     <!-- Our organisation. -->
     <organization>
         <name>Datavyu Foundation</name>
         <url>http://datavyu.org</url>
     </organization>
+
+    <issueManagement>
+        <url>https://github.com/databrary/sdl-libs/issues</url>
+        <system>GitHub Issues</system>
+    </issueManagement>
+
+    <licenses>
+        <license>
+            <name>Apache License, Version 3.0</name>
+            <url>https://www.gnu.org/licenses/gpl-3.0-standalone.html</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <scm>
+        <url>https://github.com/databrary/sdl-libs</url>
+    </scm>
+
 
     <!-- Datavyu Distribution Management Repositories -->
     <distributionManagement>
