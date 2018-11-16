@@ -5,7 +5,7 @@
 
     <groupId>datavyu</groupId>
     <artifactId>sdl-libs</artifactId>
-    <version>0.2</version>
+    <version>2.0.8</version>
     <name>SDL-libs 2.0.8</name>
     <description>SDL 2.0.8 Libraries for Windows</description>
     <url>https://github.com/databrary/sdl-libs</url>
@@ -55,7 +55,6 @@
                 <directory>lib</directory>
                 <includes>
                     <include>SDL2.dll</include>
-                    <include>SDL2.framework</include>
                 </includes>
             </resource>
         </resources>
