@@ -66,7 +66,7 @@
             <!-- SDL 2.0.9 version -->
             <directory>lib</directory>
             <includes>
-              <include>SDL2.dll</include>
+              <include>libSDL2.dylib</include>
               <include>README-SDL.txt</include>
             </includes>
           </resource>
